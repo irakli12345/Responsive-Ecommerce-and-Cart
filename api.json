@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "animal_name": "King cormorant",
+      "gender": "Male",
+      "age": 2,
+      "price": 64,
+      "image": "http://dummyimage.com/204x266.bmp/ff4444/ffffff"
+    },
+    {
+      "id": 2,
+      "animal_name": "Javan gold-spotted mongoose",
+      "gender": "Male",
+      "age": 9,
+      "price": 48,
+      "image": "http://dummyimage.com/286x213.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 3,
+      "animal_name": "African lion",
+      "gender": "Female",
+      "age": 9,
+      "price": 97,
+      "image": "http://dummyimage.com/266x294.jpg/5fa2dd/ffffff"
+    },
+    {
+      "id": 4,
+      "animal_name": "Red-billed toucan",
+      "gender": "Female",
+      "age": 7,
+      "price": 98,
+      "image": "http://dummyimage.com/218x273.bmp/cc0000/ffffff"
+    },
+    {
+      "id": 5,
+      "animal_name": "Fat-tailed dunnart",
+      "gender": "Male",
+      "age": 7,
+      "price": 35,
+      "image": "http://dummyimage.com/231x254.bmp/ff4444/ffffff"
+    },
+    {
+      "id": 6,
+      "animal_name": "Red-legged pademelon",
+      "gender": "Male",
+      "age": 7,
+      "price": 33,
+      "image": "http://dummyimage.com/290x263.bmp/cc0000/ffffff"
+    },
+    {
+      "id": 7,
+      "animal_name": "American buffalo",
+      "gender": "Female",
+      "age": 9,
+      "price": 82,
+      "image": "http://dummyimage.com/262x276.bmp/5fa2dd/ffffff"
+    },
+    {
+      "id": 8,
+      "animal_name": "Tortoise, galapagos",
+      "gender": "Male",
+      "age": 7,
+      "price": 50,
+      "image": "http://dummyimage.com/229x272.jpg/cc0000/ffffff"
+    },
+    {
+      "id": 9,
+      "animal_name": "Western pygmy possum",
+      "gender": "Female",
+      "age": 0,
+      "price": 24,
+      "image": "http://dummyimage.com/240x220.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 10,
+      "animal_name": "Oribi",
+      "gender": "Female",
+      "age": 2,
+      "price": 34,
+      "image": "http://dummyimage.com/292x217.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 11,
+      "animal_name": "Gazelle, grant's",
+      "gender": "Female",
+      "age": 4,
+      "price": 32,
+      "image": "http://dummyimage.com/247x206.png/ff4444/ffffff"
+    },
+    {
+      "id": 12,
+      "animal_name": "Glider, sugar",
+      "gender": "Male",
+      "age": 4,
+      "price": 24,
+      "image": "http://dummyimage.com/233x283.bmp/dddddd/000000"
+    },
+    {
+      "id": 13,
+      "animal_name": "Bleu, red-cheeked cordon",
+      "gender": "Male",
+      "age": 2,
+      "price": 40,
+      "image": "http://dummyimage.com/224x264.bmp/dddddd/000000"
+    },
+    {
+      "id": 14,
+      "animal_name": "Red-billed toucan",
+      "gender": "Female",
+      "age": 10,
+      "price": 39,
+      "image": "http://dummyimage.com/235x237.png/cc0000/ffffff"
+    },
+    {
+      "id": 15,
+      "animal_name": "Madagascar hawk owl",
+      "gender": "Male",
+      "age": 1,
+      "price": 76,
+      "image": "http://dummyimage.com/285x284.png/ff4444/ffffff"
+    },
+    {
+      "id": 16,
+      "animal_name": "House crow",
+      "gender": "Male",
+      "age": 2,
+      "price": 50,
+      "image": "http://dummyimage.com/221x244.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 17,
+      "animal_name": "African wild cat",
+      "gender": "Female",
+      "age": 3,
+      "price": 54,
+      "image": "http://dummyimage.com/229x276.bmp/dddddd/000000"
+    },
+    {
+      "id": 18,
+      "animal_name": "Lapwing (unidentified)",
+      "gender": "Male",
+      "age": 10,
+      "price": 47,
+      "image": "http://dummyimage.com/274x270.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 19,
+      "animal_name": "Stork, woolly-necked",
+      "gender": "Female",
+      "age": 7,
+      "price": 87,
+      "image": "http://dummyimage.com/203x260.jpg/cc0000/ffffff"
+    },
+    {
+      "id": 20,
+      "animal_name": "Short-nosed bandicoot",
+      "gender": "Female",
+      "age": 4,
+      "price": 85,
+      "image": "http://dummyimage.com/274x211.jpg/ff4444/ffffff"
+    }
+  ]
+}
